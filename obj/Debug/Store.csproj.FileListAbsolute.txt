@@ -1,0 +1,7 @@
+D:\VisualStudio\Store\Store\bin\Debug\Store.exe.config
+D:\VisualStudio\Store\Store\bin\Debug\Store.exe
+D:\VisualStudio\Store\Store\bin\Debug\Store.pdb
+D:\VisualStudio\Store\Store\obj\Debug\Store.csproj.AssemblyReference.cache
+D:\VisualStudio\Store\Store\obj\Debug\Store.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Store\Store\obj\Debug\Store.exe
+D:\VisualStudio\Store\Store\obj\Debug\Store.pdb
